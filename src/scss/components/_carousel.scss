@@ -1,0 +1,74 @@
+/***************************
+CAROUSEL
+***************************/
+
+.carousel-inner {
+  .item {
+      img {
+          width: 60%;
+
+          @include sm {
+              width: 50%;
+          }
+
+          @include lg {
+              width: 60%;
+          }
+      }
+  }
+}
+
+.carousel-caption {
+  top: 0;
+  bottom: 0;
+  text-align: left;
+  display: flex;
+  // align-items: center;
+  // flex-wrap: wrap;
+  justify-content: center;
+  flex-direction: column;
+
+  @include sm {
+      left: 50%;
+      padding: 12px;
+      right: 0;
+  }
+
+  @include lg {
+      padding: 30px 15px;
+      left: 60%;
+  }
+
+  h1 {
+      color: #ca5d24;
+      text-transform: capitalize;
+      // align-self: flex-end;
+
+      @include sm {
+          margin: 0 0 10px 0;
+          font-size: 15px;
+      }
+
+      @include lg {
+          font-size: 32px;
+      }
+  }
+
+  p {
+      color: #6d6d6d;
+      // align-self: flex-start;
+
+      @include sm {
+          font-size: 12px;
+      }
+
+      @include lg {
+          font-size: 16px;
+      }
+  }
+
+  h1,
+  p {
+      text-shadow: none;
+  }
+}

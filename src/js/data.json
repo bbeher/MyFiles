@@ -1,0 +1,40 @@
+{
+  "items": [
+    {
+      "img": "http://www.landmarkmlp.com/js-plugin/owl.carousel/demos/assets/fullimage1.jpg",
+      "alt": "Owl Image 1",
+      "headline": "example headline 1",
+      "description": "Cras justo odio, dapibus ac facilisis in, egestas eget quam."
+    },
+    {
+      "img": "http://www.landmarkmlp.com/js-plugin/owl.carousel/demos/assets/fullimage2.jpg",
+      "alt": "Owl Image 2",
+      "headline": "example headline 2",
+      "description": "dapibus ac facilisis in, egestas eget quam."
+    },
+    {
+      "img": "http://www.landmarkmlp.com/js-plugin/owl.carousel/demos/assets/fullimage3.jpg",
+      "alt": "Owl Image 1",
+      "headline": "example headline 3",
+      "description": "Cras justo odio, dapibus ac facilisis in"
+    },
+    {
+      "img": "http://www.landmarkmlp.com/js-plugin/owl.carousel/demos/assets/fullimage4.jpg",
+      "alt": "Owl Image 2",
+      "headline": "example headline 4",
+      "description": "Cras justo odio, egestas eget quam."
+    },
+    {
+      "img": "http://www.landmarkmlp.com/js-plugin/owl.carousel/demos/assets/fullimage5.jpg",
+      "alt": "Owl Image 1",
+      "headline": "example headline 5",
+      "description": "Cras odio, dapibus ac egestas eget quam."
+    },
+    {
+      "img": "http://www.landmarkmlp.com/js-plugin/owl.carousel/demos/assets/fullimage6.jpg",
+      "alt": "Owl Image 2",
+      "headline": "example headline 6",
+      "description": "dapibus ac facilisis in, Cras justo odio, egestas eget quam."
+    }
+  ]
+}
